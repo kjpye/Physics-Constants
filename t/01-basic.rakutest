@@ -1,6 +1,6 @@
-use Test;
+#use Test;
 use Physics::Constants;
 
-pass "replace me";
+#pass "replace me";
 
-done-testing;
+#done-testing;
